@@ -1,4 +1,13 @@
-# CrimeInvestigation
+___
+
+<a href='https://github.com/eliasmelul/'> <img src='https://s3.us-east-2.amazonaws.com/wordontheamazon.com/NoMargin_NewLogo.png' style='width: 15em;' align='right' /></a>
+# Crime Investigation - Boston
+
+___
+<h4 align="right">by Elias Melul, Data Scientist </h4> 
+
+___
+
 
 ## The Relationship between the Crime Rate and Weather in Boston
 ### Introduction
